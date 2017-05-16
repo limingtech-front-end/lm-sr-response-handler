@@ -1,0 +1,22 @@
+{
+  "name": "lm-sr-response-handler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/limingtech-front-end/lm-sr-response-handler.git"
+  },
+  "author": "littlstonee <littlstonee@hotmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/limingtech-front-end/lm-sr-response-handler/issues"
+  },
+  "homepage": "https://github.com/limingtech-front-end/lm-sr-response-handler#readme",
+  "dependencies": {
+    "lm-sr-error-message": "git+https://github.com/limingtech-front-end/lm-sr-error-message.git"
+  }
+}
